@@ -79,6 +79,10 @@ Database → SQL → Data Cleaning → Power BI → Business Insights
 
 ---
 
-## 👤 Author
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-Data Analytics portfolio project focused on SQL and Power BI skills development.
+## 📎 Author
+
+## Developed by Victor Viapiana  
+GitHub: https://github.com/VictorViapiana
